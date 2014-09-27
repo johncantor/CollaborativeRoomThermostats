@@ -10,3 +10,5 @@ Buffer cylinders are often used to improve matters when there are many heat emit
 Buffer cylinders are far from ideal, and nice to avoid if possible.
 
 A better plan could be to make the individula room thermostats 'collaborate' in some way so that radiators **tend** to all come on together. This can be achieved by several means.
+
+![Thermostat](files/generic_room_thermostat.jpg)
